@@ -1,4 +1,4 @@
-   |English | Chinese
+id |English | Chinese
 ---|--------|--------
 1  | latch | 锁存、锁存器
 2  | latch contention | 锁存冲突
